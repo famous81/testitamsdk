@@ -8,6 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/EosSignature" />
+            <option value="$PROJECT_DIR$/ItamEosJava" />
+            <option value="$PROJECT_DIR$/ItamLib-release" />
+            <option value="$PROJECT_DIR$/ItamSdk-release" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
