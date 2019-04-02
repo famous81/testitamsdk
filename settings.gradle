@@ -1,1 +1,1 @@
-include ':app', ':ItamLib-release', ':EosSignature', ':ItamSdk-release', ':ItamEosJava'
+include ':app', ':EosSignature', ':ItamEosJava', ':ItamLib-release', ':ItamSdk-release'
